@@ -24,6 +24,18 @@ Trying to establish an Empirical finding upon taking a closer look on how differ
   N-grams are the combination of N terms together. This Matrix representing tf-idf scores of N-grams
 * **_Character Level TF-IDF_**:
   Matrix representing tf-idf scores of character level n-grams in the corpus
+* **_Combinations Tried _**:
+  - Count Vectors + Word Level TF-IDF
+  - Count Vectors + N-gram Level TF-IDF
+  - Count Vectors + Character Level TF-IDF
+  - Word Level TF-IDF + N-gram Level TF-IDF
+  - Word Level TF-IDF + Character Level TF-IDF
+  - N-gram Level TF-IDF + Character Level TF-IDF
+  - Count Vectors + Word Level TF-IDF + N-gram Level TF-IDF
+  - Count Vectors + Word Level TF-IDF + Character Level TF-IDF
+  - Count Vectors + N-gram Level TF-IDF + Character Level TF-IDF
+  - Word Level TF-IDF + N-gram Level TF-IDF + Character Level TF-IDF
+  - Count Vectors + Word Level TF-IDF + N-gram Level TF-IDF + Character Level TF-IDF
   
 * **_Word Embeddings_**:
 
