@@ -40,8 +40,8 @@ Trying to establish an Empirical finding upon taking a closer look on how differ
 * **_Word Embeddings_**:
 
   Form of representing words and documents using a dense vector representation. The position of a word within the vector space is learned from text and is based on the words that surround the word when it is used. 
-  * Glove
-  * FastText
-  * Word2Vec.
+  * Glove (wiki-news-300d-2M.vec)
+  * FastText (wiki-news-300d-2M.vec)
+  * Word2Vec (wiki-news-300d-2M.txt)
   
 [Special Thanks goes to https://www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
