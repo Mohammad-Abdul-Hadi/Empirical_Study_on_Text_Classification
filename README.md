@@ -44,6 +44,9 @@ Trying to establish an Empirical finding upon taking a closer look on how differ
   * FastText (wiki-news-300d-2M.vec)
   * Word2Vec (wiki-news-300d-2M.txt)
 
+## 91 different Combinations have been implmented 
+  Details are in Final Report Sheet
+
 ### Citation:
 [https://www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
 
