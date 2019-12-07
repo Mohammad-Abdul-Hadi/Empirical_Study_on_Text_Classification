@@ -22,9 +22,9 @@ Trying to establish an Empirical finding upon taking a closer look on how differ
   Matrix representing tf-idf scores of every term in different documents
 * **_N-gram Level TF-IDF_**:
   N-grams are the combination of N terms together. This Matrix representing tf-idf scores of N-grams
-* **_Character Level TF-IDF_**:
+* **_Character Level TF-IDF_** :
   Matrix representing tf-idf scores of character level n-grams in the corpus
-* **_Combinations Tried _**:
+* **_Combinations Tried_**:
   - Count Vectors + Word Level TF-IDF
   - Count Vectors + N-gram Level TF-IDF
   - Count Vectors + Character Level TF-IDF
